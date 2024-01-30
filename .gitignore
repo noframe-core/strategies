@@ -1,6 +1,7 @@
 # Compiler files
 cache/
 out/
+src/xxBeefyStrategysol
 
 # Ignores development broadcast logs
 !/broadcast
